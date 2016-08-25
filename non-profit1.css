@@ -1,0 +1,280 @@
+header {
+	font-family: 'Jura', sans-serif;
+	font-size: 27px;
+	font-weight: 1.4em;
+}
+
+body {
+	background-color: white;
+	font-family: 'Jura', sans-serif;
+}
+
+
+/* ..............................*/
+
+section.gifs
+{
+ background: #BBBBBB;
+
+}
+
+div.gify2 {
+	padding-top: 20px;
+	padding-bottom: 200px;
+}
+
+
+img.gif {
+	width: 200px;
+	height: 200px;
+}
+
+img.gif2 {
+	margin-left: 150px;
+	height: 300px;
+	width: 490px;
+	clear: both;
+	float: left;
+	display: inline-block;
+}
+
+div.gifText2 {
+
+	text-align: center;
+	margin-left: 700px;
+	margin-right: 200px;
+	line-height: 25px;
+
+}
+
+img.gif3 {
+	margin-left: -15px;
+	margin-right: 150px;
+	width: 460px;
+	height: 300px;
+float: right;
+}
+
+div.gify3
+{
+	display: inline-block;
+	clear: both;
+	margin-bottom: 20px;
+}
+div.gifText3 {
+
+	text-align: center;
+	margin-right: 700px;
+	margin-left: 180px;
+	line-height: 25px;
+	margin-top: 20px;
+
+}
+
+span.link1 {
+	font-family: 'Jura';
+	float: right;
+	text-align: right;
+	font-size: 17px;
+}
+
+span.link2 {
+	font-size: 17px;
+	font-family: 'Jura';
+	float: right;
+}
+
+a:hover {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+
+/* ..............................*/
+
+div.header {
+	height: 12px;
+	width: 50%;
+}
+
+h1 {
+	font-size: 49px;
+	padding-bottom: 0px;
+}
+
+span.create {
+	padding-top: 0px;
+}
+
+
+/* ..............................*/
+
+div.transBox {
+	background-color: rgba(255, 255, 255, 0.2);
+	color: white;
+	text-align: center;
+	font-family: 'Jura';
+	height: 50%;
+	width: 50%;
+	padding-top: 100px;
+	margin: auto;
+}
+
+.intro {
+	color: white;
+	text-align: center;
+	font-family: 'Jura';
+	padding-top: 200px;
+	background-image: url("tumblr_nlmg4e7Oph1s8tx41o1_500.gif");
+	/*
+			background-image: url("ello-optimized-21f4a46e.gif");
+
+	background-image: url("tumblr_nlmg4e7Oph1s8tx41o1_500.gif");
+    <img src="tumblr_nlmg4e7Oph1s8tx41o1_500.gif">
+		background-image: url("blurry_street_4_by_derlevi-d41bsmp.jpg");
+	*/
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 490px;
+}
+
+.para1 {
+	text-align: center;
+	font-family: 'Jura';
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 30px;
+}
+
+img.banner1 {
+	align-content: center;
+	width: 50%;
+	padding-bottom: 20px;
+}
+
+div.graphic {
+	background: #BBBBBB;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	align-content: center;
+}
+
+img.graphic {
+	padding-left: 390px;
+}
+
+div.buttons {
+	background: white;
+	margin: auto;
+	padding-bottom: 50px;
+	align-content: center;
+	margin-top: 50px;
+}
+
+div.button1 {
+	display: inline-block;
+	background: black;
+	color: white;
+	width: 20%;
+	float: left;
+	clear: both;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 300px;
+	text-align: center;
+	font-size: 25px;
+}
+
+div.button2 {
+	background: black;
+	color: white;
+	display: inline-block;
+	clear: both;
+	width: 20%;
+	padding-bottom: 25px;
+	padding-top: 25px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-left: 50px;
+	text-align: center;
+	font-size: 25px;
+	margin-left: 100px;
+}
+
+
+/* ..............................*/
+
+footer {
+	font-family: 'Jura';
+	background-color: #E5E5E5;
+	justify-content: space-between;
+	width: 100%;
+	height: 50px;
+}
+
+#foot ul {
+	float: left;
+	list-style-type: none;
+	width: 500px;
+}
+
+#foot ul li {
+	display: inline;
+}
+
+section.media {
+	width: 100px;
+}
+
+img.social {
+	float: left;
+	height: 25px;
+}
+
+.media {
+	width: 50px;
+	float: left;
+	margin-left: 500px;
+	padding-top: 10px;
+}
+
+
+/* ..............................*/
+
+.one-whole {
+	width: 100%;
+}
+
+.one-half {
+	width: 50%;
+}
+
+.one-third {
+	width: 33.33%;
+}
+
+.one-quarter {
+	width: 25%;
+}
+
+.auto {
+	width: auto;
+}
+
+.column {
+	float: left;
+}
+
+.row:after {
+	content: "";
+	clear: both;
+	display: table;
+}

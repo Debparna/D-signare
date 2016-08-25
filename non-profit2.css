@@ -1,0 +1,139 @@
+div.title {
+	color: white;
+	background: black;
+	color: white;
+	text-align: center;
+	line-height: inherit;
+	padding-bottom: 120px;
+	padding-top: 100px;
+}
+
+body {
+	font-family: 'Jura', sans-serif;
+}
+
+.home {
+	font-size: 25px;
+	padding-top: 0px;
+}
+
+div.upload {
+	background: #E5E5E5;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-right: 500px;
+	margin-left: 500px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	text-align: center;
+	font-size: 16px;
+}
+
+.Projects {
+	margin-top: 50px;
+	display: inline-flex;
+	align-items: center;
+	margin-left: 1em;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+.Project {
+	margin-top: 3em;
+	display: inline-flex;
+	justify-content: space-between;
+	margin: 2px;
+	width: 25%;
+	height: 44%;
+}
+
+.Web {
+	background-color: #E5E5E5;
+}
+
+.Mobile {
+	background-color: white;
+}
+
+.Description {
+	width: 90%;
+	text-align: center;
+}
+
+.Example {
+	margin: 0 2em;
+}
+
+h1 {
+	font-size: 50px;
+}
+
+h2 {
+	font-size: 100px;
+	font-size: 25px;
+	text-align: center;
+}
+
+h4 {
+	color: #666666;
+	font-weight: bold;
+	text-align: center;
+}
+
+p {
+	margin-left: 5%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	width: 100%;
+	height: 100%;
+}
+
+.line {
+	width: 25%;
+	height: 2px;
+	border-bottom-style: solid;
+}
+
+
+/* ..............................*/
+
+footer {
+	font-family: 'Jura';
+	background-color: #E5E5E5;
+	justify-content: space-between;
+	width: 100%;
+	height: 50px;
+}
+
+#foot ul {
+	float: left;
+	list-style-type: none;
+	width: 500px;
+}
+
+#foot ul li {
+	display: inline;
+}
+
+section.media {
+	width: 100px;
+	margin-left: 500px;
+}
+
+img.social {
+	float: left;
+	height: 25px;
+}
+
+.media {
+	width: 50px;
+	float: left;
+	margin-left: 300px;
+	padding-top: 11px;
+}
+
+
+/* ..............................*/

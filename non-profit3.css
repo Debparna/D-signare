@@ -1,0 +1,243 @@
+div.title {
+	color: white;
+	font-family: 'Jura', sans-serif;
+	background: black;
+	color: white;
+	text-align: center;
+	line-height: 30px;
+	;
+	padding-bottom: 140px;
+	padding-top: 100px;
+}
+
+.para1 {
+	text-align: center;
+	font-family: 'Jura';
+	padding-left: 30px;
+	padding-right: 30px;
+	padding-top: 30px;
+	margin-left: 100px;
+	margin-right: 100px;
+	line-height: 30px;
+	padding-bottom: 50px;
+}
+
+div.orgs {
+	align-content: center;
+}
+
+.home {
+	font-size: 25px;
+	font-family: 'Jura', sans-serif;
+}
+
+body {
+	font-family: 'Jura', sans-serif;
+}
+
+a:hover {
+	color: black
+}
+
+a:visited {
+	color: black
+}
+
+
+/* IMAGES */
+
+img.sam {
+	width: 220px;
+	height: 180px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+img.asha {
+	width: 220px;
+	height: 180px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+img.cry {
+	width: 220px;
+	height: 180px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+img.mentor {
+	width: 220px;
+	height: 180px;
+	border-radius: 50%;
+	margin-bottom: 20px;
+}
+
+
+/* .......DIVS OF ORGS.......*/
+
+div.samDiv {
+	font: "avenir";
+	display: inline-block;
+	width: 40%;
+	float: left;
+	text-align: center;
+	padding-bottom: 50px;
+	margin-left: 100px;
+	background: #E5E5E5;
+	padding-top: 10px;
+	align-content: center;
+}
+
+span.samText {
+	line-height: 19px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+span.mentorText {
+	line-height: 19px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+span.ashaText {
+	line-height: 19px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+span.cryText {
+	line-height: 19px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+div.cryDiv {
+	display: inline-block;
+	clear: both;
+	width: 40%;
+	text-align: center;
+	padding-bottom: 50px;
+	margin-left: 50px;
+	background: #E5E5E5;
+	padding-top: 10px;
+}
+
+div.mentorDiv {
+	width: 40%;
+	clear: both;
+	text-align: center;
+	display: inline-block;
+	padding-bottom: 35px;
+	margin-left: 100px;
+	margin-right: 20px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	background: #E5E5E5;
+	padding-top: 10px;
+}
+
+div.ashaDiv {
+	width: 40%;
+	float: left;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 10px;
+	margin-left: 30px;
+	background: #E5E5E5;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+/* ..............................*/
+
+footer {
+	font-family: 'Jura';
+	background-color: #E5E5E5;
+	justify-content: space-between;
+	width: 100%;
+	height: 50px;
+	margin-top: 350px;
+}
+
+#foot ul {
+	list-style-type: none;
+	float: left;
+}
+
+#foot ul li {
+	display: inline;
+	margin-left: 0px;
+}
+
+img.social {
+	height: 25px;
+	margin-left: 300px;
+	margin-right: 100px;
+	
+}
+.social2{
+	float:right;
+	width:25%;
+	display:inline-block;
+}
+.social3{
+	float:left;
+	width:80%;
+	display:inline-block;
+}
+
+/* ..............................*/
+
+.column {
+	float: left;
+}
+
+.col-12 {
+	width: 100%:
+}
+
+.col-9 {
+	width: 75%;
+}
+
+.col-6 {
+	width: 40%;
+}
+
+.col-4 {
+	width: 33.33%;
+}
+
+.col-3 {
+	width: 25%;
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+￼ .align-right {
+	text-align: right;
+}
+
+.align-center {
+	text-align: center;
+}
+
+.align-left {
+	text-align: left;
+}
+
+.row:after {
+	clear: both;
+	content: "";
+	display: table;
+}
